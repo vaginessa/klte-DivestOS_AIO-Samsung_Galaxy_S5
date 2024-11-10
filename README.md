@@ -19,7 +19,9 @@ tar --format=ustar -cvf recovery.tar recovery.img
 to get a flashable  tar/.tar.md5 file..
 
 -----  
+https://wiki.lineageos.org/devices/klte/  
 
-https://firmwarefile.com/?s=g900f
+https://firmwarefile.com/?s=g900f  
+
 
 
