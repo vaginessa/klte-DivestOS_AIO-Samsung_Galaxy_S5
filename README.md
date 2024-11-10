@@ -10,7 +10,13 @@ Odin_3.13.1.zip | https://undocumented.software/Odin_3.13.1.zip
 
 Samsung Android USB Driver for Windows v1.7.61.exe | https://developer.samsung.com/mobile/android-usb-driver.html
 
-guitar.exe  
+guitar.exe | https://github.com/vaibhavpandeyvpz/handyb/releases/download/1.0.0/handyb.exe
+
+else use
+```
+tar --format=ustar -cvf recovery.tar recovery.img
+```
+to get a flashable  tar/.tar.md5 file..
 
 -----  
 
